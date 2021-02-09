@@ -1,0 +1,95 @@
+index,name,servces,rating,bonus
+1, Nando's, Chicken and Burgers, 4.6 ,"Free
+delivery"
+2, Five Guys - Burger and Fries," American, Burgers, and Milkshakes", 4.6 ,"Free
+delivery"
+3, SoBe Burger," American, Burgers, Drinks, and Dessert", 4.4 ,"40%
+off"
+4, Clean Kitchen - Vegan," American, Salads, Burgers, and Healthy", 4.5 ,"30%
+off"
+5, Coqfighter," Burgers, Chicken, Wings, and British", 4.6 ,"Free
+delivery"
+6, Maria's ," Fish and chips, British, and Burgers", 4.6 ,"Meal
+deals"
+7, Dip & Flip, American and Burgers, 4.6 ,"Free
+delivery"
+8, Bleecker Burger," Burgers, American, and Milkshakes", 4.6 ,"Free
+delivery"
+9, Nando's - Balham, Chicken and Burgers, 4.7 ,"Free
+delivery"
+10, Shake Shack – Burgers & Shakes," American, Burgers, and Milkshakes", 4.6 ,"Free
+delivery"
+11, Out Fry - Korean Chicken (Balham)," Fried chicken, Korean, Asian, and Dessert", 4.6 ,
+12, by CHLOE," Burgers, American, Salads, and Healthy", 4.7 ,"Free
+delivery"
+13, Byron Burgers," Burgers, American, and Alcohol", 4.5 ,"Free
+delivery"
+14, Hache," Burgers, American, Chicken, and Alcohol", 4.5 ,"Free
+delivery"
+15, Poptata - Loaded Fries & Chicken," American, Burgers, and Chicken", 4.6 ,"30%
+off"
+16, Dirty Bones," Burgers, Chicken, American, and British",no rating,"Free
+delivery"
+17, Gourmet Burger Kitchen (GBK)," American, Burgers, and Alcohol", 4.4 ,"Free
+delivery"
+18, Meat & Shake," American, Burgers, Chicken, and BBQ", 4.5 ,"Free
+delivery"
+19, The Breakfast Club ," Breakfast, Brunch, Coffee, and Pancakes", 4.8 ,"Meal
+deals"
+20, Sam's Chicken," Chicken, Fried chicken, Wraps, and British", 4.5 ,"Meal
+deals"
+21, Vintage Fish," Fish and chips, British, Brunch, and Chicken", 4.5 ,
+22, Burger King - Balham," Burgers, American, and Fried chicken", 4.5 ,"Meal
+deals"
+23, Burger & Beyond," Burgers, American, Chicken, and Fried chicken", 4.6 ,"Meal
+deals"
+24, Chicken Cottage," Chicken, Fried chicken, Wings, and American", 4.4 ,"Meal
+deals"
+25, BVRGER," American, Burgers, and Dessert", 4.6 ,"Free
+delivery"
+26, Thunderbird - Award Winning Chicken," American, Burgers, Chicken, and Fried chicken", 4.4 ,"Free
+delivery"
+27, Bird and Tie," Fried chicken, American, Burgers, and Chicken", 4.6 ,
+28, Calowries," Wraps, Healthy, Salads, and Burgers", 4.8 ,
+29, B-Town by Werty," Burgers, American, Chicken, and Dessert", 4.5 ,
+30, Habaneros," Chicken, American, Burgers, and Milkshakes", 4.5 ,
+31, Macro Food," Chicken, Salads, Healthy, and Juices", 4.8 ,
+32, THE ORANGE BUFFALO," American, Wings, BBQ, and Fried chicken", 4.6 ,
+33, Chick'N'Bun," Chicken, Fried chicken, American, and Burgers", 4.4 ,
+34, King Roosters," Burgers, Fried chicken, Kebab, and Wraps", 4.3 ,
+35, Honest Burgers ," American, Burgers, Wings, and British", 4.5 ,
+36, Wing Shack Co," British, American, Wings, and Burgers", 4.7 ,
+37, Burger & Lobster ," American, Burgers, and Seafood", 4.6 ,
+38, The Farmer's Mistress," British, Burgers, Salads, and Milkshakes", 4.8 ,
+39, Over Under," Drinks, Sandwiches, Café, and British", 4.8 ,
+40, Ambience," Burgers, Turkish, Seafood, and Salads", 4.5 ,
+41, Smack Lobster Roll ," American, Sandwiches, Burgers, and Seafood", 4.7 ,
+42, Hudson's," British, Burgers, Salads, and Brunch", 4.6 ,
+43, Epic Vegan Chick ," American, Burgers, and Fried chicken", 4.6 ,
+44, EGGRUN 🥚🏃‍♂️," Sandwiches, Breakfast, Brunch, and Burgers", 4.8 ,
+45, Lighthouse Fish Bar," British, Fish and chips, Burgers, and Chicken", 4.6 ,
+46, Smoke Daddies," American, Burgers, and Chicken", 4.6 ,
+47, Handmade Burger Co - Wandsworth," Burgers, BBQ, Milkshakes, and American", 4.1 ,
+48, Papas Tops Pizza," Pizza, Dessert, Burgers, and Pasta", 4.5 ,
+49, New Morley," Chicken, Western, Burgers, and BBQ", 4.2 ,
+50, Gourmet 2," Lebanese, Falafel, Mezze, and Dessert", 4.6 ,
+51, Roosters Piri Piri ," Chicken, American, Dessert, and Burgers", 4.4 ,
+52, Best of Werty (Multi Brand Ordering)," American, Burgers, Chicken, and Dumplings", 4.5 ,
+53, Gun Smoke," American, Burgers, Chicken, and Milkshakes", 4.4 ,
+54, VBELLY , British and Burgers, 4.7 ,
+55, Rosie Lee Cafe, Burgers and Turkish, 4.4 ,
+56, Amigos Burgers ," Burgers, Chicken, American, and Milkshakes", 4.6 ,
+57, Cattle Grid @ The Earlsfield," American, Wings, Steak, and Burgers", 4.6 ,
+58, Victoria Grill Peri Peri," Burgers, Wraps, Chicken, and Salads", 4.7 ,
+59, Little Planted Kitchen ," British, Healthy, Salads, and Burgers", 4.6 ,
+60, Ma Plucker Chicken," British, Burgers, Fried chicken, and Wings", 4.0 ,
+61, Capri Pizza Kebab & Fried Chicken," American, Pizza, Kebab, and Fried chicken", 4.0 ,
+62, Mother's Breakfast," Breakfast, Pizza, Bagels, and Thai", 4.6 ,
+63, Costas Cafe & Burger House," Breakfast, Brunch, Burgers, and Drinks", 4.6 ,
+64, Pirates Burgers," American, Burgers, and Chicken", 4.6 ,
+65,   Asian Fried Chicken by Tampopo," Chicken, Fried chicken, Korean, and Asian", 4.1 ,
+66, Sunday Roast @ The Regent, British and Burgers, 4.4 ,
+67, Chicken Rules ," American, Burgers, Chicken, and Fried chicken", 4.1 ,
+68, The Limes Burger, Burgers, 4.6 ,
+69, Down South," American, Seafood, Pasta, and Wings", 4.5 ,
+70, Hot Dog Parade, American and Burgers, 4.3 ,

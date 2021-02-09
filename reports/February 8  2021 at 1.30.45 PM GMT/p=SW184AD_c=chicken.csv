@@ -1,0 +1,97 @@
+index,name,services,rating,bonus
+1, Dirty Bones," Burgers, Chicken, American, and British",no rating,"Free
+delivery"
+2, Nando's, Chicken and Burgers, 4.6 ,"Free
+delivery"
+3, KFC ," Chicken, Fried chicken, Wings, and American", 4.3 ,"Free
+delivery"
+4, BabaBoom - Battersea," Middle Eastern, Kebab, Chicken, and Falafel", 4.8 ,"Free
+delivery"
+5, Jakob's Kitchen," Mediterranean, Middle Eastern, Lebanese, and Chicken", 4.8 ,"25%
+off"
+6, Kokoro ," Sushi, Japanese, Curry, and Chicken", 4.8 ,"Free
+delivery"
+7, Clean Kitchen - Vegan," American, Salads, Burgers, and Healthy", 4.5 ,"30%
+off"
+8, Coqfighter," Burgers, Chicken, Wings, and British", 4.6 ,"Free
+delivery"
+9, Three Uncles," Chinese, BBQ, Chicken, and Noodles", 4.7 ,"Free
+delivery"
+10, Mikos Gyros," Greek, Chicken, Alcohol, and Kebab", 4.7 ,"Free
+delivery"
+11, Wingstop," American, Wings, Fried chicken, and Chicken", 4.6 ,"Free
+delivery"
+12, Chilango," Burritos, Mexican, Chicken, and Salads", 4.7 ,"25%
+off"
+13, Waleema," Lebanese, Salads, Falafel, and Wraps", 4.7 ,"20%
+off"
+14, Nando's - Balham, Chicken and Burgers, 4.7 ,"Free
+delivery"
+15, Out Fry - Korean Chicken (Balham)," Fried chicken, Korean, Asian, and Dessert", 4.6 ,"Free
+delivery"
+16, Hache," Burgers, American, Chicken, and Alcohol", 4.6 ,"Free
+delivery"
+17, Bosa Kitchen," Mezze, Lebanese, Turkish, and Chicken", 4.6 ,"10%
+off"
+18, Vintage Fish," Fish and chips, British, Brunch, and Chicken", 4.5 ,"Free
+delivery"
+19, Kings Kebab & Grill," American, Chicken, and Kebab",no rating,"20%
+off"
+20, Remedy Kitchen," Healthy, Chicken, and Salads", 4.8 ,"25%
+off"
+21, Pasha Mangal," Turkish, Chicken, BBQ, and Salads", 4.7 ,"Free
+delivery"
+22, Poptata - Loaded Fries & Chicken," American, Burgers, and Chicken", 4.6 ,"Free
+delivery"
+23, Meiwei London 美味宮," Dim Sum, Chinese, Seafood, and Chicken", 4.6 ,"Meal
+deals"
+24, Sam's Chicken," Chicken, Fried chicken, Wraps, and British", 4.5 ,"Meal
+deals"
+25, THE ORANGE BUFFALO," American, Wings, BBQ, and Fried chicken", 4.6 ,"Free
+delivery"
+26, YORI Korean Wimbledon," Korean, BBQ, Asian, and Noodles", 4.7 ,"10%
+off"
+27, Calowries," Wraps, Healthy, Salads, and Burgers", 4.8 ,
+28, Chicken Cottage," Chicken, Fried chicken, Wings, and American", 4.4 ,
+29, Habaneros," Chicken, American, Burgers, and Milkshakes", 4.5 ,
+30, Hyderabadi Zaiqa," Chinese, Indian, Dessert, and Chicken",no rating,
+31, Hana Korean Takeaway," Chicken, Noodles, Asian, and Korean", 4.6 ,
+32, Lahore Karahi," Pakistani, Kebab, Seafood, and Chicken", 4.5 ,
+33, The Blue Moon 蓝月," Chinese, Chicken, Dim Sum, and Seafood", 4.6 ,
+34, The Urban Greek ," Greek, Chicken, Mediterranean, and Wraps", 4.5 ,
+35, Doner Inn," Burgers, Chicken, Kebab, and Pizza", 4.2 ,
+36, Oodles Chinese ," Chicken, Curry, Noodles, and Chinese", 4.3 ,
+37, Good Morning Vietnam," Chinese, Chicken, Seafood, and Dim Sum", 4.5 ,
+38, New Morley," Chicken, Western, Burgers, and BBQ", 4.2 ,
+39, Wha Gwan Restaurant, Caribbean and Chicken, 3.7 ,
+40, Chefly ," Salads, British, Healthy, and Chicken", 4.7 ,
+41, Piri Piri Grill - 14 Upper Tooting Road," Chicken, American, Fried chicken, and Burgers", 4.5 ,
+42, Seascape Fish Bar," Seafood, Fish and chips, Burgers, and Chicken", 4.6 ,
+43, Gourmet 2," Lebanese, Falafel, Mezze, and Dessert", 4.6 ,
+44, China Town," Chinese, Chicken, and Noodles", 3.9 ,
+45, Chicken Corner," American, Chicken, Burgers, and Salads", 4.3 ,
+46, Mountain Express," Grocery, Alcohol, Chicken, and Juices", 4.7 ,
+47, Victoria Grill Peri Peri," Burgers, Wraps, Chicken, and Salads", 4.7 ,
+48, Amigos Burgers ," Burgers, Chicken, American, and Milkshakes", 4.6 ,
+49, Istanbul Kebab & Mangal," Chicken, Kebab, and Turkish", 4.6 ,
+50, Gun Smoke," American, Burgers, Chicken, and Milkshakes", 4.4 ,
+51, Wing World ," American, Chicken, Fried chicken, and Wings", 4.5 ,
+52, Kahya," Chicken, Drinks, Turkish, and Mediterranean", 4.5 ,
+53, Putney Bakery," Sandwiches, British, Coffee, and Drinks", 4.5 ,
+54, New Tokyo Sushi," Japanese, Sushi, Drinks, and Chicken", 4.1 ,
+55, Lahore Spices," Indian, Chicken, Seafood, and Pakistani", 4.3 ,
+56, Beirut Deli," Turkish, Café, Chicken, and Asian", 4.2 ,
+57, Jerk Shack, Caribbean and Chicken, 4.0 ,
+58, Chicken Rules ," American, Burgers, Chicken, and Fried chicken", 4.1 ,
+59, Diana Fish Bar," British, Chicken, Fish and chips, and Kebab", 4.0 ,
+60, MunchFit," Salads, Chicken, and Healthy", 4.3 ,
+61, Chicken 2 Go," Pizza, American, and Chicken", 4.2 ,
+62, Sides R Us," American, British, Pasta, and Burgers", 4.2 ,
+63, MNGL-X by Best Mangal," Turkish, Kebab, BBQ, and Chicken", 4.4 ,
+64, Kebab Centre," Burgers, Kebab, Lebanese, and Chicken", 4.2 ,
+65, K Wings & Chips," Korean, Asian, Wings, and Chicken", 4.8 ,
+66, Epic Chicken ," American, Chicken, Fried chicken, and Wings", 4.3 ,
+67, Mac & Wings," American, Chicken, Pasta, and Wings", 4.1 ,
+68, What A Chicken Peri Peri," Burgers, Wraps, Fried chicken, and Chicken", 4.4 ,
+69, Sizzle N Shake," Chicken, Dessert, Burgers, and Milkshakes", 4.3 ,
+70, Arepas Aglaes," American, Chicken, Wraps, and Breakfast", 4.3 ,

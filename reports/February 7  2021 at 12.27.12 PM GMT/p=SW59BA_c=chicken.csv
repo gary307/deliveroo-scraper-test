@@ -1,0 +1,96 @@
+index,name,servces,rating,bonus
+1, Nando's, Chicken and Burgers, 4.7 ,"Free
+delivery"
+2, KFC ," Chicken, Fried chicken, American, and Wings", 4.4 ,"Free
+delivery"
+3, Wingstop," American, Wings, Fried chicken, and Chicken", 4.7 ,"Meal
+deals"
+4, Jakob's Kitchen," Mediterranean, Middle Eastern, Lebanese, and Chicken", 4.8 ,"25%
+off"
+5, GFC Chicken Shop by LEON," Dessert, Burgers, Chicken, and American",no rating,"Free
+delivery"
+6, Nando's - Kensington High Street, Chicken and Burgers, 4.8 ,"Free
+delivery"
+7, Cocotte 🐓," Dessert, Chicken, Salads, and Healthy", 4.8 ,"Free
+delivery"
+8, ⚡ TASTY KOREA ⚡," Korean, Chicken, Noodles, and Ramen", 4.8 ,"Free
+delivery"
+9, Pasta Evangelists ," Italian, Pasta, Healthy, and Seafood", 4.6 ,"Meal
+deals"
+10, 🍖 Bullgogi 🍖," Korean, BBQ, Noodles, and Dumplings", 4.8 ,"Free
+delivery"
+11, Joe & Co," American, Burgers, Wings, and Dessert", 4.6 ,"15%
+off"
+12, Wing Wing," Chicken, American, Korean, and Wings", 4.6 ,"Meal
+deals"
+13," 🍕⚡️BROOKLYN PIZZA CREW 🍕⚡️ - 20"" Pizzas"," Pizza, Dessert, Chicken, and American", 4.5 ,"20%
+off"
+14, Big Fernand," French, Burgers, Chicken, and American", 4.7 ,"Meal
+deals"
+15, Kalamaki Street Greek," Mediterranean, Greek, Salads, and Chicken", 4.7 ,"Meal
+deals"
+16, Hache," Burgers, American, Chicken, and Alcohol", 4.7 ,"Free
+delivery"
+17, Chosen Bun Burgers," American, Burgers, Milkshakes, and Chicken", 4.6 ,"Free
+delivery"
+18, Chilango," Burritos, Mexican, Chicken, and Salads", 4.7 ,"Meal
+deals"
+19, CHIK'N," American, Sandwiches, Chicken, and Fried chicken", 4.6 ,"Meal
+deals"
+20, Gold Mine Restaurant 金山楼," Chinese, Chicken, BBQ, and Seafood", 4.8 ,"Free
+delivery"
+21, Tian Fu 天府布衣," Chinese, Sichuan, Seafood, and Asian", 4.7 ,
+22, Waleema," Lebanese, Salads, Falafel, and Wraps", 4.7 ,"20%
+off"
+23, Patty & Bun ," American, Burgers, Fried chicken, and Chicken", 4.6 ,"20%
+off"
+24, Simple Health Kitchen," Burgers, Chicken, Salads, and British", 4.8 ,"Free
+delivery"
+25, Dirty Bones," Burgers, Chicken, American, and British", 4.5 ,"Free
+delivery"
+26, Sugoi JPN," Japanese, Tacos, Sushi, and Chicken", 4.7 ,"30%
+off"
+27, Lost Boys Chicken," American, Burgers, Chicken, and Fried chicken", 4.5 ,
+28, Chicken Cottage," Chicken, Fried chicken, Wings, and American", 4.5 ,
+29, Clean Kitchen - Vegan," American, Salads, Burgers, and Healthy", 4.6 ,
+30, The Doner Kebab," Lebanese, Kebab, Turkish, and Middle Eastern",no rating,
+31, Go Viet," Vietnamese, Noodles, Chicken, and Healthy", 4.8 ,
+32, Royal China," Asian, Chinese, Dim Sum, and Noodles", 4.7 ,
+33, Remedy Kitchen," Healthy, Chicken, and Salads", 4.8 ,
+34, Mr Chow Chinese Takeaway," Chinese, Chicken, and Noodles", 3.9 ,
+35, Muyang Hot Pot and BBQ Chinese 牧羊人餐馆," Chinese, Noodles, Chicken, and Dim Sum", 4.8 ,
+36, Ishbilia," Lebanese, Chicken, Salads, and Mezze", 4.8 ,
+37, The Halal Guys," Chicken, Wraps, Mediterranean, and Greek", 4.6 ,
+38, Pasar Malam - Malay Eatery," Chicken, Noodles, Alcohol, and Asian", 4.4 ,
+39, Flying Noodles," Chinese, Noodles, Seafood, and Chicken", 4.6 ,
+40, JRK Kitchen, Caribbean and Chicken, 4.7 ,
+41, Meiwei London 美味宮," Dim Sum, Chinese, Seafood, and Chicken", 4.6 ,
+42, Bombay Palace," Indian, Curry, Chicken, and Asian", 4.7 ,
+43, Sidechick by Patty & Bun	," American, Chicken, Healthy, and Alcohol", 4.7 ,
+44, Duck & Noodle," Asian, Chinese, Noodles, and Chicken", 4.6 ,
+45, Apadana," Kebab, Wraps, Lebanese, and Mezze", 4.5 ,
+46, Korean Gangnam Style KFC," Korean, Fried chicken, Chicken, and BBQ", 4.6 ,
+47, Local Greens by Kitchen Ventures," Healthy, British, Salads, and Chicken", 4.8 ,
+48, Pepe's Piri Piri," Chicken, Fried chicken, and Burgers", 4.6 ,
+49, Plum Valley Restaurant 梅花村," Dim Sum, Noodles, Cantonese, and Chinese", 4.7 ,
+50, Famous Pizza," Pizza, Burgers, Italian, and Chicken", 4.6 ,
+51, Amigos Burgers and Shakes," Burgers, Chicken, American, and Milkshakes", 4.3 ,
+52, Barburrito 🌯," American, Burritos, Mexican, and Chicken", 4.5 ,
+53, King of Wings," American, Dessert, Burgers, and Chicken", 4.7 ,
+54, Foxden Restaurant," British, Burgers, Alcohol, and Chicken", 4.7 ,
+55, Chicken Hub - Paddington," Fried chicken, BBQ, Burgers, and Wraps", 4.5 ,
+56, Wicked Burgers ," American, Burgers, Chicken, and British", 4.5 ,
+57, Baker and Spice - Chelsea," Greek, Salads, Mediterranean, and Italian", 4.7 ,
+58, Haidilao Hot Pot 海底捞," Chinese, Hot pot, Chicken, and Sichuan", 4.9 ,
+59, 🍕⚡️BROOKLYN PIZZA CREW 🍕⚡️," Chicken, Dessert, American, and Salads", 4.6 ,
+60, Farmshop," Chicken, Dessert, British, and Steak", 4.9 ,
+61, Chick Pop," Burgers, American, Dessert, and Chicken", 4.6 ,
+62, OTTOLENGHI," Chicken, Dessert, Mezze, and Brunch", 4.8 ,
+63, Tinseltown," American, Burgers, Chicken, and Milkshakes", 4.5 ,
+64, Bluebird Chelsea Café," Salads, British, American, and Sandwiches", 4.7 ,
+65, Bombay Street Food," Indian, Chicken, Asian, and Curry", 4.8 ,
+66, Wraps & Wings," Burgers, Wraps, Wings, and Chicken", 4.4 ,
+67, Chicken and Cevapi, Chicken and Mediterranean, 4.7 ,
+68, FoodSlut x Mall Tavern Burger Collaboration," Burgers, American, Chicken, and Alcohol", 4.6 ,
+69, Roosters Piri Piri," Chicken, American, Dessert, and Burgers", 4.6 ,
+70, Satay House," Malaysian, Chicken, and Noodles", 4.8 ,

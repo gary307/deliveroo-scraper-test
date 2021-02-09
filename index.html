@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+
+<head>
+  <style>
+    body {
+      font-family: arial;
+      text-align: center;
+    }
+
+    h1 {
+      color: #00b8a9;
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Deliveroo web scraper</h1>
+  <h2>Lets get scraping. Click go to create files</h2>
+
+  <button id="button">Generate files</button>
+  <br />
+  <br />
+  <div id="confirm"></div>
+</body>
+
+<script type="module">
+  async function submit() {
+    const confirmLocation = (document.querySelector("#confirm").innerHTML =
+      "waiting");
+    console.log("working");
+
+    try {
+      const generate = await fetch("http://localhost:9000/generate");
+      const confirmLocation = (document.querySelector("#confirm").innerHTML =
+        "Files generated");
+    } catch (err) {
+      console.log("err");
+    }
+  }
+
+  document.querySelector("#button").addEventListener("click", submit);
+</script>

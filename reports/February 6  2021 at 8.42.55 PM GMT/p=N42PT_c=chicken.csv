@@ -1,0 +1,90 @@
+index,name,servces,rating,bonus
+1, Nando's - Finsbury Park, Burgers and Chicken, 4.5 ,
+2, Chickose," Dessert, Mediterranean, Chicken, and Lebanese", 3.9 ,"10%
+off"
+3, Coqfighter," Burgers, Chicken, Wings, and British", 4.6 ,"Free
+delivery"
+4, Kleftiko," Greek, Burgers, and Chicken",no rating,"20%
+off"
+5, Chipotle Mexican Grill," Mexican, Burritos, Salads, and Chicken", 4.7 ,
+6, KFC ," Chicken, Fried chicken, American, and Wings", 4.3 ,"£1.99
+delivery"
+7, Nando's - Stoke Newington, Burgers and Chicken, 4.5 ,
+8, Nando's, Chicken and Burgers, 4.5 ,
+9, Kalamaki Street Greek ," Greek, Chicken, Wraps, and Salads", 4.5 ,"15%
+off"
+10, BIRD," American, Burgers, Chicken, and Fried chicken", 4.4 ,
+11, Gökyüzü," Turkish, Mezze, BBQ, and Kebab", 4.8 ,"Meal
+deals"
+12, Chilango," Burritos, Salads, Mexican, and Chicken", 4.7 ,"Meal
+deals"
+13, Pasta Evangelists," Italian, Pasta, Healthy, and Seafood", 4.7 ,"Meal
+deals"
+14, Sidechick by Patty & Bun	," American, Chicken, Healthy, and Alcohol", 4.7 ,"Meal
+deals"
+15, Roosters Piri Piri - Wood Green," Wraps, Chicken, Wings, and Burgers", 4.6 ,"Meal
+deals"
+16, Sam's Chicken," Chicken, Fried chicken, Wraps, and British", 4.3 ,
+17, Wingstop ," American, Wings, Fried chicken, and Chicken", 4.6 ,"Meal
+deals"
+18, Poke Zone ," Hawaiian, Salads, Poke, and Seafood", 4.8 ,"Meal
+deals"
+19, Holy Cow," Curry, Indian, Chicken, and Seafood", 4.7 ,
+20, Daddy's Dim Sum," Asian, Dessert, Chicken, and Salads", 4.5 ,"15%
+off"
+21, Schnitzel Forever," Chicken, Burgers, Mediterranean, and Salads", 4.9 ,"40%
+off"
+22, Panda Oriental 熊貓," Dim Sum, Dessert, Chinese, and Asian", 4.6 ,"Free
+item"
+23, Butchies Buttermilk Fried Chicken," American, Burgers, Fried chicken, and Chicken", 4.7 ,"Meal
+deals"
+24, Kingston Jerk Hut," Caribbean, Chicken, and Fried chicken", 4.3 ,"Meal
+deals"
+25, Pepe's Piri Piri," American, Fried chicken, and Chicken", 4.5 ,"50%
+off"
+26, Chicken Express, American and Chicken, 4.1 ,"50%
+off"
+27, Roosters Piri Piri," Chicken, Wraps, Wings, and Burgers", 4.7 ,
+28, Chip Inn Fish Bar," Chicken, Fish and chips, and British", 4.5 ,
+29, Greek Mama," Greek, Chicken, Dessert, and Salads", 4.7 ,
+30, One Love Kitchen," Caribbean, Jamaican, BBQ, and Chicken", 4.6 ,
+31, Pickled Pink," American, Dessert, Burgers, and Chicken",no rating,
+32, Holy FK Wings," Chicken, American, Burgers, and Wings", 4.3 ,
+33, Return of the Mac," Chicken, American, and Pasta", 4.5 ,
+34, Chick Filler," American, Chicken, BBQ, and Salads", 4.2 ,
+35, Superfry - 닭 Korean Fried Chicken," Korean, Chicken, Asian, and Fried chicken", 4.0 ,
+36, Bengal Indian," Indian, Chicken, and Curry", 4.6 ,
+37, Yaalu Yaalu," Chicken, Sri Lankan, and Curry", 4.7 ,
+38, PFC Original," Burgers, Fried chicken, Kebab, and Wraps", 4.3 ,
+39, Tinseltown," American, Burgers, Chicken, and Milkshakes", 4.3 ,
+40, Terrys Kebab House," Chicken, Wraps, Kebab, and Soup",no rating,
+41, Ministry of Chicken," Chicken, Wraps, Burgers, and American", 4.4 ,
+42, Makimayo Chikin," Chicken, Asian, and Wings", 4.5 ,
+43, Curtis Caribbean Grill and Specialty Cake," Dessert, Chicken, and Caribbean", 4.4 ,
+44, The Tiffin Tin - Indian Delivery ," Indian, Curry, Alcohol, and Chicken", 4.6 ,
+45, Curry Club ," Curry, Indian, Chicken, and Dessert", 4.5 ,
+46, Emperor Chinese," Dim Sum, Seafood, Chicken, and Chinese", 4.4 ,
+47, Slim Chickens," American, Chicken, Fried chicken, and Wings", 4.5 ,
+48, King of Wings," American, Dessert, Burgers, and Chicken", 4.3 ,
+49, Sushi Zone ," Sushi, Salads, Japanese, and Noodles", 4.6 ,
+50, Pizza Hot Peri Peri Chicken," British, Pizza, and Chicken", 4.2 ,
+51, Winner Winner 🐔🍽 ," Chicken, Wings, American, and British", 3.9 ,
+52, Montegos Caribbean Grill," American, Caribbean, BBQ, and Burgers", 4.2 ,
+53, 01 Adana Restaurant," Dessert, Chicken, Turkish, and Salads", 4.6 ,
+54, Scratch," Chicken, Fried chicken, Brunch, and Healthy", 4.6 ,
+55, King Gourmet," Chicken, Burgers, and Pizza", 3.9 ,
+56, Autograf," Chicken, Dumplings, Polish, and Alcohol", 4.7 ,
+57, Standard Tandoori Restaurant," Indian, Bangladeshi, Curry, and Asian", 4.6 ,
+58, Favourite Pizza and Chicken," Pizza, American, Burgers, and Chicken", 4.4 ,
+59, Wing Boss - Wings & Mac," Wings, Fried chicken, Chicken, and American", 4.0 ,
+60, The Taste Box, Chicken and Caribbean, 4.0 ,
+61, Island Fried Chicken 🏝," American, Dessert, Chicken, and Caribbean", 3.9 ,
+62, Mexican Taco," Mexican, Chicken, Steak, and Tacos", 4.7 ,
+63, Crystal Turkish Restaurant ," Turkish, Chicken, Kebab, and Salads", 4.3 ,
+64, Archway Kebab," British, Burgers, Chicken, and Wings", 4.3 ,
+65, Diyarbakir Restaurant," Turkish, Kebab, BBQ, and Chicken", 4.3 ,
+66, Tasty African, Chicken and African, 4.5 ,
+67, New Tokyo Sushi," Japanese, Sushi, Drinks, and Chicken", 4.1 ,
+68, E," Kebab, Turkish, Chicken, and Wraps", 4.6 ,
+69, Tops Pizza Kentish Town," Italian, Pizza, and Chicken", 4.2 ,
+70, Asia Village," Chinese, Chicken, and Noodles", 4.4 ,

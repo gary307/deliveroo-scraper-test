@@ -1,0 +1,28 @@
+[
+    {
+        "postcode": "SW59BA",
+        "category": "burgers"
+    },
+    {
+        "postcode": "SW59BA",
+        "category": "chicken"
+    },
+    {
+        "postcode": "SW184AD",
+        "category": "burgers"
+    },
+    {
+        "postcode": "SW184AD",
+        "category": "chicken"
+    },
+    {
+        "postcode": "SW184AD",
+        "category": "burgers",
+        "dietary": "vegan"
+    },
+    {
+        "postcode": "SW59BA",
+        "category": "burgers",
+        "dietary": "vegan"
+    }
+]
